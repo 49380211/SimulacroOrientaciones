@@ -223,6 +223,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cc14cd4ef551c564d8e5bbee485f69aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  nombre: Nicolas
+  "a\xF1o": 6
+  orientation: R
 --- !u!4 &1989551347
 Transform:
   m_ObjectHideFlags: 0
